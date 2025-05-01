@@ -1,10 +1,10 @@
 # About Me - Răzvan Grumaz
 
 I am currently studying computer science at the University of Applied Sciences (HFT) in Stuttgart in the 2nd semester  
-My previous focuses and interests:
+My current focuses and interests:
 
 - **Programming languages and technologies:**
-  - Basics in SQL (retrieving, updating, deleting, and adding data)
+  - Fundamentals in SQL (retrieving, updating, deleting, and adding data)
   - Java with a focus on object-oriented programming (OOP)
 
 - **Experience with version control systems:**
@@ -13,8 +13,8 @@ My previous focuses and interests:
   - Knowledge in creating and managing merge requests as well as resolving conflicts
 
 - **Future goals:**
-  - Further development in backend development, combined with initial experience in frontend development
-  - Broader understanding of various technologies and their practical application
+  - Further growth in backend development, complemented by gaining initial experience in frontend development
+  - A broader understanding of diverse technologies and their practical applications
 
 - **Personal qualities:**
   - Team-oriented and communicative
@@ -23,4 +23,8 @@ My previous focuses and interests:
 
 ## Purpose of the Repository
 
-It provides an overview of my skills and interests. Additionally, it documents my progress and development as a budding computer scientist.
+It provides an overview of my skills and interests. Additionally, it documents my progress and development as a aspiring computer scientist.
+
+---
+
+[Deutsche Version](README-DE.md)
