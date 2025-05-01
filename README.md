@@ -1,4 +1,4 @@
-# Über mich - Razvan Grumaz
+# Über mich - Răzvan Grumaz
 
 Ich studiere aktuell Informatik an der Hochschule für Technik (HFT) in Stuttgart im 2. Semester. 
 Meine bisherigen Schwerpunkte und Interessen:
