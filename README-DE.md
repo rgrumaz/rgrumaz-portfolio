@@ -24,3 +24,7 @@ Meine bisherigen Schwerpunkte und Interessen:
 ## Ziel des Repositorys
 
 Es bietet einen Überblick über meine Fähigkeiten und Interessen. Außerdem dokumentiert es meinen Fortschritt und meine Entwicklung als angehender Informatiker.
+
+---
+
+[English Version](README-EN.md)
