@@ -1,30 +1,29 @@
-# Über mich - Răzvan Grumaz
+# Über mich - Razvan-Constantin Grumaz
 
-Ich studiere aktuell Informatik an der Hochschule für Technik (HFT) in Stuttgart im 2. Semester. 
-Meine bisherigen Schwerpunkte und Interessen:
+Ich studiere Informatik im dritten Semester an der Hochschule für Technik Stuttgart.
 
-- **Programmiersprachen und Technologien:**
-  - Grundlagen in SQL (Daten abrufen, aktualisieren, löschen, und hinzufügen)
-  - Java mit Fokus auf objektorientierter Programmierung (OOP)
+## Technologien und Erfahrung
 
-- **Erfahrung mit Versionskontrollsystemen:**
-  - Vertraut im Umgang mit Git und Plattformen wie GitHub und GitLab
-  - Erfahrung mit Push, Commit und der Zusammenarbeit in verschiedenen Branches
-  - Kenntnisse im Erstellen und Verwalten von Merge Requests sowie im Lösen von     Konflikten
+**Programmiersprachen:**
+- Java (Hauptsprache, OOP, Algorithmen & Datenstrukturen)
+- Spring Boot (Grundkenntnisse, REST-APIs)
+- JavaScript (Grundkenntnisse)
+- C und MATLAB (Grundkenntnisse)
 
-- **Zukünftige Ziele:**
-  - Weiterentwicklung im Backend-Bereich, kombiniert mit ersten Erfahrungen im      Frontend-Bereich
-  - Breiteres Verständnis für verschiedene Technologien und deren praktische        Anwendung
+**Versionskontrolle:**
+- Git, GitHub, GitLab
+- Branches, Merge Requests, Konfliktlösung
 
-- **Persönliche Eigenschaften:**
-  - Teamfähig und kommunikativ
-  - Begeistert von komplexen Problemstellungen und bereit, Herausforderungen        anzunehmen
-  - neugierig und motiviert, ständig Neues zu lernen
+## Projekte
 
-## Ziel des Repositorys
+**[Snake AI - Q-Learning](https://github.com/Teamprojekt-Snake/Snake-AI)**
 
-Es bietet einen Überblick über meine Fähigkeiten und Interessen. Außerdem dokumentiert es meinen Fortschritt und meine Entwicklung als angehender Informatiker.
+Snake-Spiel mit Reinforcement Learning, gemeinsam mit einem Kommilitonen in Java entwickelt. Enthält Spiellogik, GUI in Java Swing und einen Q-Learning-Algorithmus mit Epsilon-Greedy-Strategie, trainiert über 50.000 Spiele.
 
----
+**[Job Scheduler REST-API](https://github.com/rgrumaz/job-scheduler-api)**
 
-[English Version](README-EN.md)
+REST-API zur Job-Verwaltung und Priorisierung, gebaut mit Spring Boot.
+
+## Ziele
+
+Weiterentwicklung im Backend-Bereich, erste Erfahrungen mit weiteren Technologien und Frameworks.
